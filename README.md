@@ -1,38 +1,73 @@
-# Ioda-sys
-**Administrador de Sistemas y Redes | Desarrollador | Entusiasta de la tecnología**
+<h1 align="left">Hey 👋 What's up?</h1>
 
----
+###
 
-## Sobre mí
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
-¡Hola! Soy Sergio, administrador de sistemas y redes apasionado por la tecnología y el código abierto. Tengo experiencia en la gestión de infraestructuras, automatización, seguridad y soporte a usuarios, así como en el desarrollo de soluciones creativas para problemas complejos.
+###
 
----
+<h2 align="left">About me</h2>
 
-## Proyectos Destacados
+###
 
-- [**Tu Proyecto 1**](https://github.com/Ioda-sys/Primer_Proyecto)
-  _Descripción breve de tu proyecto principal, qué hace y por qué es interesante._
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-- [**Tu Proyecto 2**](https://github.com/Ioda-sys/tu-proyecto-2)  
-  _Otra descripción de un proyecto relevante. Puedes añadir tantos como quieras._
+###
 
----
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
 
-## Habilidades
+###
 
-| Linux | Windows Server | Redes | Virtualización | Automatización | Bash | Python | Git |
-|-------|----------------|-------|----------------|----------------|------|--------|-----|
-| ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ![](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white) | ![](https://img.shields.io/badge/Redes-00599C?style=flat) | ![](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) | ![](https://img.shields.io/badge/Automatización-2C3539?style=flat) | ![](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+<h2 align="left">I code with</h2>
 
----
+###
 
-## Contacto
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+</div>
 
-- 📧 [ioda.system.networking@gmail.com](mailto:ioda.system.networking@gmail.com)
-- 💻 [GitHub](https://github.com/Ioda-sys)
-<!-- Agrega aquí LinkedIn, Twitter, etc. -->
-
----
-
-<sub>Portfolio generado con ❤️ para GitHub Pages y README.md</sub>
+###
