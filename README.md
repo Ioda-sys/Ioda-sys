@@ -11,7 +11,7 @@
 
 ## Proyectos Destacados
 
-- [**Tu Proyecto 1**](https://github.com/Ioda-sys/tu-proyecto-1)  
+- [**Tu Proyecto 1**]([https://github.com/Ioda-sys/tu-proyecto-1](https://github.com/Ioda-sys/Primer_Proyecto))  
   _Descripción breve de tu proyecto principal, qué hace y por qué es interesante._
 
 - [**Tu Proyecto 2**](https://github.com/Ioda-sys/tu-proyecto-2)  
