@@ -1,7 +1,4 @@
 # Ioda-sys
-
-![Avatar](https://avatars.githubusercontent.com/u/your-user-id?v=4)
-
 **Administrador de Sistemas y Redes | Desarrollador | Entusiasta de la tecnología**
 
 ---
