@@ -1,16 +1,41 @@
-## Hi there 👋
+# Ioda-sys
 
-<!--
-**Ioda-sys/Ioda-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Avatar](https://avatars.githubusercontent.com/u/your-user-id?v=4)
 
-Here are some ideas to get you started:
+**Administrador de Sistemas y Redes | Desarrollador | Entusiasta de la tecnología**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mí
+
+¡Hola! Soy Sergio, administrador de sistemas y redes apasionado por la tecnología y el código abierto. Tengo experiencia en la gestión de infraestructuras, automatización, seguridad y soporte a usuarios, así como en el desarrollo de soluciones creativas para problemas complejos.
+
+---
+
+## Proyectos Destacados
+
+- [**Tu Proyecto 1**](https://github.com/Ioda-sys/tu-proyecto-1)  
+  _Descripción breve de tu proyecto principal, qué hace y por qué es interesante._
+
+- [**Tu Proyecto 2**](https://github.com/Ioda-sys/tu-proyecto-2)  
+  _Otra descripción de un proyecto relevante. Puedes añadir tantos como quieras._
+
+---
+
+## Habilidades
+
+| Linux | Windows Server | Redes | Virtualización | Automatización | Bash | Python | Git |
+|-------|----------------|-------|----------------|----------------|------|--------|-----|
+| ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ![](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white) | ![](https://img.shields.io/badge/Redes-00599C?style=flat) | ![](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) | ![](https://img.shields.io/badge/Automatización-2C3539?style=flat) | ![](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+
+---
+
+## Contacto
+
+- 📧 [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
+- 💻 [GitHub](https://github.com/Ioda-sys)
+<!-- Agrega aquí LinkedIn, Twitter, etc. -->
+
+---
+
+<sub>Portfolio generado con ❤️ para GitHub Pages y README.md</sub>
