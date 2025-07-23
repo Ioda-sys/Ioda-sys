@@ -32,7 +32,7 @@
 
 ## Contacto
 
-- 📧 [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
+- 📧 [ioda.system.networking@gmail.com](mailto:ioda.system.networking@gmail.com)
 - 💻 [GitHub](https://github.com/Ioda-sys)
 <!-- Agrega aquí LinkedIn, Twitter, etc. -->
 
