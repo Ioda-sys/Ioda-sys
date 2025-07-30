@@ -1,26 +1,26 @@
 <h1 align="left">!Hola! ¿Que tal?👋</h1>
 
 ###
-<p>Me llamo Sergio, soy Administrador de sistemas</p>
+<p>Me llamo Sergio, soy Administrador de sistemas y redes</p>
 
 <h2 align="left">Sobre mi</h2>
 
 ###
 
-<p align="left">✨ Trabajando en proyectos personales.<br>📚 Formandome y trabajando.</p>
+<p align="left">✨ Trabajando en proyectos<br>📚 Formandome y trabajando.</p>
 
 ###
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github.com/Ioda-sys/Primer_Proyecto.git">
     <img style="width: 14" src="https://skillicons.dev/icons?i=linux" alt="Medium post 1"  />
-    <p>Mi primer proyecto</p>
   </a>
+  <p>Mi primer proyecto</p>
 </div>
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Habilidades</h2>
 
 ###
 
