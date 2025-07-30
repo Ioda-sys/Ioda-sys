@@ -17,7 +17,14 @@
   </a>
   <p>Mi primer proyecto</p>
 </div>
+</br>
 
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github.com/Ioda-sys/Jellyfin-automation.git">
+    <img style="width: 14" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Medium post 1"  />
+  </a>
+  <p>Mi primer proyecto</p>
+</div>
 ###
 
 <h2 align="left">Habilidades</h2>
