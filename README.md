@@ -1,16 +1,12 @@
-<h1 align="left">Hi, how are you?👋</h1>
+<h1 align="left">!Hola! ¿Que tal?👋</h1>
 
 ###
 
-<p align="left">I'm sergio, I'm from Spain.</p>
+<h2 align="left">Sobre mi</h2>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Working on personal projects.<br>📚 I'm training and working.</p>
+<p align="left">✨ Trabajando en proyectos personales.<br>📚 Formandome y trabajando.</p>
 
 ###
 
