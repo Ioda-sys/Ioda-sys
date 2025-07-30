@@ -1,7 +1,7 @@
 <h1 align="left">!Hola! ¿Que tal?👋</h1>
 
 ###
-
+###
 <h2 align="left">Sobre mi</h2>
 
 ###
@@ -14,12 +14,6 @@
   <a target="_blank" href="https://github.com/Ioda-sys/Primer_Proyecto.git">
     <img style="width: 14" src="https://skillicons.dev/icons?i=linux" alt="Medium post 1"  />
     <p>Mi primer proyecto</p>
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
   </a>
 </div>
 
