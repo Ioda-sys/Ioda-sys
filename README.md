@@ -1,7 +1,7 @@
 <h1 align="left">!Hola! ¿Que tal?👋</h1>
 
 ###
-
+<p>Me llamo Sergio, soy Administrador de sistemas</p>
 ###
 <h2 align="left">Sobre mi</h2>
 
