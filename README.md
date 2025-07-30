@@ -20,7 +20,7 @@
 </br>
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github.com/Ioda-sys/Jellyfin-automation.git">
-    <img style="width: 14" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg](https://skillicons.dev/icons?i=linux)" alt="Medium post 1"  />
+    <img style="width: 14" src="https://skillicons.dev/icons?i=linux" alt="Medium post 1"  />
   </a>
   <p>Automatización de Jellyfin</p>
 </div>
