@@ -1,13 +1,13 @@
 <h1 align="left">!Hola! ¿Que tal?👋</h1>
 
 ###
-<p>Me llamo Sergio, soy Administrador de sistemas y redes</p>
+<p>Me llamo Sergio, soy Administrador de sistemas y redes.</p>
 
 <h2 align="left">Sobre mi</h2>
 
 ###
 
-<p align="left">✨ Trabajando en proyectos<br>📚 Formandome y trabajando.</p>
+<p align="left">✨ Trabajando en proyectos para que mi futuro sea mejor.<br>📚 Formandome y trabajando.</p>
 
 ###
 
