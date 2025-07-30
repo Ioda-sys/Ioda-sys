@@ -17,6 +17,7 @@
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github.com/Ioda-sys/Primer_Proyecto.git">
     <img style="width: 14" src="https://skillicons.dev/icons?i=linux" alt="Medium post 1"  />
+    <p>Mi primer proyecto</p>
   </a>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
